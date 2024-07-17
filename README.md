@@ -6,11 +6,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/recep-onur-okan-195681236/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/receponur7/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/receponurokan)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-green?style=for-the-badge&logo=huggingface)](https://huggingface.co/RecepOnur)
 
 
 
 ## 🤖 Work Areas
-![Data Analysis](https://img.shields.io/badge/DataAnalysis-blue?style=for-the-badge)
+![DataAnalysis](https://img.shields.io/badge/DataAnalysis-blue?style=for-the-badge)
 ![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
