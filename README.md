@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# My aim is to create content on  data science, machine learning, and deep learning, and try to make these areas understandable for everyone. I'm a Kaggle contributor. Don't forget to follow me on my social media accounts below 👇
+# My name is Recep Onur Okan.I'm graduated from computer engineering from Bursa Technical University.I'm passionate about data analysis.Don't forget to follow me on my social media accounts below 👇
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/recep-onur-okan-195681236/)
