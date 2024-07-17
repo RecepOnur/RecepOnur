@@ -10,9 +10,11 @@
 
 
 ## 🤖 Work Areas
+![Data Analysis](https://img.shields.io/badge/DataAnalysis-blue?style=for-the-badge)
 ![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
+
 
 
 ## 📬 Contact Me
