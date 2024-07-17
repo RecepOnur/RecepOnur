@@ -19,4 +19,4 @@
 
 
 ## 📬 Contact Me
-For any inquiries, please email us at: [receponurokan@gmail.com](mailto:receponurokan@gmail.com)
+For any inquiries, please email me at: [receponurokan@gmail.com](mailto:receponurokan@gmail.com)
